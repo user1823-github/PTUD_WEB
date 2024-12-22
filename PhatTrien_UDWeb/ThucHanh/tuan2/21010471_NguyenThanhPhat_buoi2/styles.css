@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+#vung {
+	width:60px;
+	hight: 60px;
+	float: left;
+	background-color: #9648EC;
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align: center;
+	color: white;
+}
